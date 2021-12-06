@@ -1,0 +1,8 @@
+{
+  "name": "AdventOfCode",
+  "version": "1.0.0",
+  "author": "Stefan Fischer",
+  "description": "Collection of advent of code challenges",
+  "dependencies": {
+  }
+}
