@@ -1,8 +1,27 @@
 {
-  "name": "AdventOfCode",
+  "name": "adventofcode",
   "version": "1.0.0",
   "author": "Stefan Fischer",
   "description": "Collection of advent of code challenges",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doxic012/AdventOfCode.git"
+  },
+  "keywords": [
+    "AdventOfCode"
+  ],
+  "bugs": {
+    "url": "https://github.com/doxic012/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/doxic012/AdventOfCode#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
   "dependencies": {
+    "array-permutation": "^0.2.0",
+    "lodash": "^4.17.21"
   }
 }
